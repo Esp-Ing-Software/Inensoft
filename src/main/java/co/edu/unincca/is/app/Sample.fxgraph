@@ -1,0 +1,10 @@
+package co.edu.unincca.is.app
+
+import javafx.scene.layout.BorderPane
+import co.edu.unincca.is.app.SampleController
+
+component Sample controlledby SampleController {
+	BorderPane {
+		//TODO Add Nodes
+	}
+}
